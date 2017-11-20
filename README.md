@@ -2,4 +2,4 @@
 my first repository
 
 
-I like C++. Just here to contribute and get some experience.
+I like C++. Just here to contribute and get some experience
